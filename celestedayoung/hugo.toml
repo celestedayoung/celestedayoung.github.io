@@ -1,0 +1,5 @@
+baseURL = 'https://celestedayoung.github.io/'
+languageCode = 'en-us'
+title = 'celestedayoung devlog'
+
+theme='PaperMod'
